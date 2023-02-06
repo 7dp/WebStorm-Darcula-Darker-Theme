@@ -1,0 +1,21 @@
+{
+  "name": "wicakr-webstorm-darcula-darker-theme",
+  "displayName": "WebStorm Darcula Darker Theme",
+  "description": "WebStorm Darcula theme, but with less dim to the eye",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "WebStorm Darcula Darker Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/WebStorm Darcula Darker Theme-color-theme.json"
+      }
+    ]
+  }
+}
