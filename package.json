@@ -1,14 +1,42 @@
 {
-  "name": "wicakr-webstorm-darcula-darker-theme",
+  "name": "webstorm-darcula-darker-theme",
   "displayName": "WebStorm Darcula Darker Theme",
-  "description": "WebStorm Darcula theme, but with less dim to the eye",
+  "description": "The darker version of WebStorm Darcula theme, with less dim for your eyes",
+  "publisher": "7dp",
   "version": "0.0.1",
+  "author": {
+    "name": "Wicak Radityo",
+    "email": "wicakradityo778@gmail.com",
+    "url": "https://www.linkedin.com/in/wicak-radityo-b38514145/"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
+  "icon": "images/icon.png",
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "darcula",
+    "dracula",
+    "jetbrains",
+    "jetbrain",
+    "webstorm",
+    "theme",
+    "intellij",
+    "idea",
+    "dark",
+    "darker",
+    "warm"
+  ],
+  "bugs": {
+    "url": "https://github.com/7dp/WebStorm-Darcula-Darker-Theme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7dp/WebStorm-Darcula-Darker-Theme.git"
+  },
+  "homepage": "https://github.com/7dp/WebStorm-Darcula-Darker-Theme",
   "contributes": {
     "themes": [
       {

@@ -1,4 +1,4 @@
-# wicakr-webstorm-darcula-darker-theme README
+# webstorm-darcula-darker-theme README
 
 ## Working with Markdown
 
