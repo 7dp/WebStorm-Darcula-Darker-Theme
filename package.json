@@ -27,7 +27,11 @@
     "idea",
     "dark",
     "darker",
-    "warm"
+    "warm",
+    "soft",
+    "android",
+    "android studio",
+    "studio"
   ],
   "bugs": {
     "url": "https://github.com/7dp/WebStorm-Darcula-Darker-Theme/issues"
