@@ -1,16 +1,34 @@
-# webstorm-darcula-darker-theme README
+# Webstorm Darcula Darker Theme
 
-## Working with Markdown
+This is the darker version of [@imekachi WebStorm Darcula Theme](https://marketplace.visualstudio.com/items?itemName=imekachi.webstorm-darcula)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+![Preview](https://github.com/7dp/WebStorm-Darcula-Darker-Theme/blob/main/images/preview.png?raw=true)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Motivation
+Because i really like Darcula but a bit hate with it's greyish background.
+That's it!
 
-## For more information
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Installation
 
-**Enjoy!**
+[Download from VS Marketplace](https://marketplace.visualstudio.com/items?itemName=7dp.webstorm-darcula-darker-theme)
+
+## Language Support
+
+- Javascript
+- TypeScript
+- React, Svelte, Vue, Angular
+- GraphQL
+- HTML
+- PHP
+- Markdown
+- JSON
+- shell script (.sh)
+- CSS, SCSS, TailwindCSS, styled-components
+- Dockerfile, Docker compose file
+
+## Limitation
+
+Since VSCode relies on textmate scopes as a selector for theme which sometimes cannot differentiate some syntax like WebStorm. This theme cannot highlight some syntax, for example, global variables in JS, Generic Type in TS.
+
+Enjoy!
