@@ -490,7 +490,7 @@
 				"entity.other.ng-binding-name"
 			],
 			"settings": {
-				"foreground": "#9876AA",
+				"foreground": "#b070d2",
 				"fontStyle": ""
 			}
 		},
@@ -504,7 +504,7 @@
 				"entity.other.ng-binding-name.ngStyle.html"
 			],
 			"settings": {
-				"foreground": "#9876AA",
+				"foreground": "#b070d2",
 				"fontStyle": "italic"
 			}
 		},
@@ -520,7 +520,7 @@
 				"constant.character.enum.graphql"
 			],
 			"settings": {
-				"foreground": "#9876AA",
+				"foreground": "#b070d2",
 				"fontStyle": "italic bold"
 			}
 		},
