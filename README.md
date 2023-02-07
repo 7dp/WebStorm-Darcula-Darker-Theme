@@ -2,6 +2,9 @@
 
 This is the darker version of [@imekachi WebStorm Darcula Theme](https://marketplace.visualstudio.com/items?itemName=imekachi.webstorm-darcula)
 
+## Screenshots
+![Preview](https://github.com/7dp/WebStorm-Darcula-Darker-Theme/blob/main/images/preview_2.png?raw=true)
+
 ![Preview](https://github.com/7dp/WebStorm-Darcula-Darker-Theme/blob/main/images/preview.png?raw=true)
 
 ## Motivation
