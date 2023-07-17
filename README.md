@@ -1,6 +1,10 @@
-# Webstorm Darcula Darker Theme
+# Webstorm Darcula Darker Theme V2
 
-This is the darker version of [@imekachi WebStorm Darcula Theme](https://marketplace.visualstudio.com/items?itemName=imekachi.webstorm-darcula)
+This is the darker version of [@imekachi WebStorm Darcula Theme](https://marketplace.visualstudio.com/items?itemName=imekachi.webstorm-darcula).
+
+And this is the V2 of [@7dp Webstorm Darcula Darker Theme](https://marketplace.visualstudio.com/items?itemName=7dp.webstorm-darcula-darker-theme).
+
+Enjoy our more balanced look and softness :)
 
 ## Screenshots
 ![Preview](https://github.com/7dp/WebStorm-Darcula-Darker-Theme/blob/main/images/preview_2.png?raw=true)
@@ -8,8 +12,8 @@ This is the darker version of [@imekachi WebStorm Darcula Theme](https://marketp
 ![Preview](https://github.com/7dp/WebStorm-Darcula-Darker-Theme/blob/main/images/preview.png?raw=true)
 
 ## Motivation
-Because i really like Darcula but a bit hate with it's greyish background.
-That's it!
+Because i really like Darcula but i don't like the gray background.
+I prefer something darker, so i created this V2.
 
 
 ## Installation
