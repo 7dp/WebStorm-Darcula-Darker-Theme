@@ -9,7 +9,7 @@
 		"activityBar.border": "#323232",
 		"activityBar.foreground": "#ffffff",
 		"activityBar.inactiveForeground": "#aeb1b3",
-		"activityBarBadge.background": "#cc7832",
+		"activityBarBadge.background": "#C57B3C",
 		"activityBarBadge.foreground": "#ffffff",
 		"breadcrumb.background": "#303335",
 		"debugIcon.breakpointForeground": "#d74a4b",
@@ -163,7 +163,7 @@
 		"textCodeBlock.background": "#3c3d3e",
 		"textLink.activeForeground": "#57C7FE",
 		"textLink.foreground": "#589DF6",
-		"textPreformat.foreground": "#FFC66D",
+		"textPreformat.foreground": "#EAB663",
 		"titleBar.activeBackground": "#2a2a2a",
 		"titleBar.inactiveBackground": "#2a2a2a",
 		"widget.shadow": "#1a1a1aaa"
@@ -264,7 +264,7 @@
 				"punctuation.comma.graphql"
 			],
 			"settings": {
-				"foreground": "#CC7832",
+				"foreground": "#C57B3C",
 				"fontStyle": ""
 			}
 		},
@@ -278,7 +278,7 @@
 				"variable.fragment.graphql"
 			],
 			"settings": {
-				"foreground": "#FFC66D",
+				"foreground": "#EAB663",
 				"fontStyle": ""
 			}
 		},
@@ -318,7 +318,7 @@
 				"entity.other.attribute-name.pseudo-class"
 			],
 			"settings": {
-				"foreground": "#e8bf6a",
+				"foreground": "#D8B66C",
 				"fontStyle": ""
 			}
 		},
@@ -414,7 +414,7 @@
 				"meta.tag.attributes keyword.operator.assignment"
 			],
 			"settings": {
-				"foreground": "#6A8759",
+				"foreground": "#759464",
 				"fontStyle": ""
 			}
 		},
@@ -422,7 +422,7 @@
 			"name": "Green String Italic",
 			"scope": ["markup.quote.markdown"],
 			"settings": {
-				"foreground": "#6A8759",
+				"foreground": "#759464",
 				"fontStyle": "italic"
 			}
 		},
@@ -490,7 +490,7 @@
 				"entity.other.ng-binding-name"
 			],
 			"settings": {
-				"foreground": "#b070d2",
+				"foreground": "#B37CD2",
 				"fontStyle": ""
 			}
 		},
@@ -504,7 +504,7 @@
 				"entity.other.ng-binding-name.ngStyle.html"
 			],
 			"settings": {
-				"foreground": "#b070d2",
+				"foreground": "#B37CD2",
 				"fontStyle": "italic"
 			}
 		},
@@ -520,7 +520,7 @@
 				"constant.character.enum.graphql"
 			],
 			"settings": {
-				"foreground": "#b070d2",
+				"foreground": "#B37CD2",
 				"fontStyle": "italic bold"
 			}
 		},
