@@ -414,7 +414,7 @@
 				"meta.tag.attributes keyword.operator.assignment"
 			],
 			"settings": {
-				"foreground": "#759464",
+				"foreground": "#729061",
 				"fontStyle": ""
 			}
 		},
@@ -422,7 +422,7 @@
 			"name": "Green String Italic",
 			"scope": ["markup.quote.markdown"],
 			"settings": {
-				"foreground": "#759464",
+				"foreground": "#729061",
 				"fontStyle": "italic"
 			}
 		},
