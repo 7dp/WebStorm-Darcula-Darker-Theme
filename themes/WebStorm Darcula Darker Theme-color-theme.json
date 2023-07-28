@@ -32,7 +32,7 @@
 		"editor.hoverHighlightBackground": "#47713d4d",
 		"editor.inactiveSelectionBackground": "#185adc80",
 		"editor.lineHighlightBackground": "#323232",
-		"editor.selectionBackground": "#214283",
+		"editor.selectionBackground": "#1f4899",
 		"editor.selectionHighlightBackground": "#47713d4d",
 		"editor.symbolHighlightBackground": "#49e97740",
 		"editor.wordHighlightBackground": "#47713d4d",
@@ -278,7 +278,7 @@
 				"variable.fragment.graphql"
 			],
 			"settings": {
-				"foreground": "#EAB663",
+				"foreground": "#dbaf69",
 				"fontStyle": ""
 			}
 		},
@@ -318,7 +318,7 @@
 				"entity.other.attribute-name.pseudo-class"
 			],
 			"settings": {
-				"foreground": "#D8B66C",
+				"foreground": "#d1b169",
 				"fontStyle": ""
 			}
 		},
@@ -414,7 +414,7 @@
 				"meta.tag.attributes keyword.operator.assignment"
 			],
 			"settings": {
-				"foreground": "#729061",
+				"foreground": "#7b9c6d",
 				"fontStyle": ""
 			}
 		},
@@ -422,7 +422,7 @@
 			"name": "Green String Italic",
 			"scope": ["markup.quote.markdown"],
 			"settings": {
-				"foreground": "#729061",
+				"foreground": "#7b9c6d",
 				"fontStyle": "italic"
 			}
 		},
